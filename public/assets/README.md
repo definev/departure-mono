@@ -26,6 +26,7 @@ Experiment with tighter or wider tracking (letter-spacing).
 v1.501
 - 1,262 glyphs
 - Added the remaining Vietnamese letters: ả ắ ằ ẳ ẵ ặ ấ ầ ẩ ẫ ậ ẻ ế ề ể ễ ệ ỉ ỏ ố ồ ổ ỗ ộ ơ ớ ờ ở ỡ ợ ủ ứ ừ ử ữ ự ỷ ỵ and uppercase
+- Redrawn the Vietnamese capitals that carry both a vowel mark and a tone (Ầ Ấ Ẩ Ẫ, Ằ Ắ Ẳ Ẵ, Ề Ế Ể Ễ, Ồ Ố Ổ Ỗ, Ờ Ớ Ở Ỡ, Ừ Ứ Ử Ữ). The tone now sits above the circumflex, breve, or horn, with a gap between the mark and the letter.
 
 v1.500
 - 1,186 glyphs
